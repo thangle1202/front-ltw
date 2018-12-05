@@ -1,0 +1,117 @@
+#footer{
+	height: 470px;
+	width: 100%;
+}
+#about-us{
+        clear: left;
+	height: 400px;
+	widows: 100%;
+	background-color: #F4F4F4;
+}
+#copy-right{
+	width: 100%;
+	height: 70px;
+	background-color: #f0f0f0;
+}
+#inside-about-us{
+	height: 300px;
+	width: 100%;
+}
+#inside-link-sn{
+	margin: auto;
+	width: 24%;
+	height: 70px;
+}
+#logo-footer{
+	height: 90px;
+	width: 100%;
+	text-align: center;
+}
+#motto{
+	height: 70px;
+	width: 100%;
+	text-align: center;
+}
+#link-to-sn{
+	height: 70px;
+	width: 100%;
+}
+#link-home-bottom{
+	height: 90px;
+	width: 100px;
+}
+#suggestion{
+	height: 70px;
+	width: 100%;
+	clear: left;
+}
+#logo-bottom{
+	height: 90px;
+	width: 100px;
+}
+#inside-suggest{
+	margin: auto;
+	height: 70px;
+	width: 36%;
+}
+#imgg{
+	width: 100%;
+	height: 50px;
+}
+#eop{
+	width: 17%;
+	height: 70px;
+	float: left;
+}
+#copy{
+	width: 83%;
+	height: 70px;
+	line-height: 30px;
+	float: left;
+}
+#copytext{
+	padding-left: 60px;
+        line-height: 50px;
+        font-size: 13px;
+}
+#subtext{
+	width: 100%;
+	height: 20px;
+}
+.empty{
+        clear: left;
+	height: 50px;
+	width: 100%;
+}
+.image-sn{
+	height: 50px;
+	width: 50px;
+}
+.div-image-sn{
+	float: left;
+	padding: 10px;
+}
+.div-link-bottom{
+	float: left;
+	padding: 15px;
+
+}
+.link-bottom{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+.eop-image{
+	height: 40px;
+	width: 40px;
+}
+.image-eop{
+	float: left;
+	width: 50px;
+	height: 50px;
+}
+.text-eop{
+	float: left;
+	padding-left: 10px;
+	padding-right: 12px;
+}
